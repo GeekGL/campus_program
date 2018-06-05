@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/sina_weibo.png</file>
+    <file>images/Sun.png</file>
+    <file>images/Weather_cloud_bolt_rain.png</file>
+    <file>images/Weather_cloud_heavy_rain.png</file>
+    <file>images/Weather_cloud_snow.png</file>
+	<file>images/Weather_cloud_sun_rain.png</file>
+	<file>images/Weather_cloud_sun_snow.png</file>
+	<file>images/Weather_clouds.png</file>
+	<file>images/Weather_clouds_bolt_rain.png</file>
+	<file>images/Weather_Storm.png</file>
+	<file>images/Weather_wind.png</file>
+	<file>images/love.gif</file>
+	<file>images/00001.png</file>
+	<file>images/00002.png</file>
+	<file>images/00006.png</file>
+	<file>images/00012.png</file>
+	<file>images/00022.png</file>
+	<file>images/00025.png</file>
+	<file>images/00026.png</file>
+	<file>images/00029.png</file>
+	<file>images/00046.png</file>
+</qresource>
+</RCC>
